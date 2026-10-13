@@ -62,7 +62,9 @@ MRI input (2.5D slice context)
 
 ### 1. Per-Fold Training and Validation Loss
 
-![Per-fold training and validation loss curves](assets/training_validation_loss.png)
+![Per-fold training and validation loss curves]
+<img width="466" height="396" alt="image" src="https://github.com/user-attachments/assets/c235d3c3-306a-4323-8d95-3d7d7103b9e8" />
+
 
 The plot shows a consistent reduction in **training loss** across the five folds, reaching approximately **0.30–0.32** near the end of training. **Validation losses** generally decrease early, then fluctuate or plateau around **0.39–0.46**, depending on the fold.
 
@@ -70,7 +72,8 @@ The plot shows a consistent reduction in **training loss** across the five folds
 
 ### 2. Segmentation Visualization
 
-![T2W MRI, ground truth, prediction, overlays and difference map](assets/segmentation_results.png)
+![T2W MRI, ground truth, prediction, overlays and difference map]<img width="464" height="266" alt="image" src="https://github.com/user-attachments/assets/83d8641d-2efc-4747-9e9f-fa55c280c5f9" />
+
 
 The visualization includes:
 
